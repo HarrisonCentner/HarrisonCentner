@@ -29,18 +29,29 @@ I'm an **undergraduate researcher** study at *University of Michigan* where I am
 
 <table>
   <tr>
-    <td>💬 Language</td>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/> 
+    <td>📚 Languages</td>
+     <td>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/> 
       <img src="https://img.shields.io/badge/-SystemVerilog-00ADD8?logo=velog&logoColor=white" alt="SystemVerilog"/>
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/> <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white" alt="Shell Script"/></td>
+      <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/> 
+      <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white" alt="Go"/> 
+      <img src="https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+     </td>
   </tr>
   <tr>
     <td>🛠 Development</td>
-    <td><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="git"/> <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white" alt="Vim"/> <img src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white" alt="Xcode"/></td>
-  </tr>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="git"/> 
+      <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white" alt="Vim"/> 
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white" alt="Xcode"/>
+    </td>
+    </tr>
   <tr>
     <td>🖋 Academic</td>
-    <td><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white" alt="LaTeX"/> <img src="https://img.shields.io/static/v1?message=Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" alt="Mathematica"/></td>
+    <td>
+      <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white" alt="LaTeX"/> 
+      <img src="https://img.shields.io/static/v1?message=Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" alt="Mathematica"/></td>
   </tr>
 </table>
 
