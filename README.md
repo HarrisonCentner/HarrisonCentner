@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+## About
 
 I am an undergraduate researcher studing at *University of Michigan* where I am majoring in:
  * *Honors Mathematics* 
@@ -44,7 +44,7 @@ I am an undergraduate researcher studing at *University of Michigan* where I am 
     </td>
     </tr>
   <tr>
-    <td>💡 Math</td>
+    <td>💡 Math Tools</td>
     <td>
       <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white" alt="LaTeX"/> 
       <img src="https://img.shields.io/static/v1?message=Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" alt="Mathematica"/>
@@ -52,7 +52,7 @@ I am an undergraduate researcher studing at *University of Michigan* where I am 
      </td>
   </tr>
   <tr>
-    <td>🤖 Learning</td>
+    <td>🤖 Currently Learning</td>
     <td>
       <img src="https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=white" alt="Rust"/> 
       <img src="https://img.shields.io/badge/-Haskell-5D4F85?logo=Haskell&logoColor=white" alt="Haskell"/>
