@@ -35,9 +35,9 @@ I'm an **undergraduate researcher** study at *University of Michigan* where I am
       <img src="https://img.shields.io/badge/-SystemVerilog-00ADD8?logo=velog&logoColor=white" alt="SystemVerilog"/>
       <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/> 
       <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white" alt="Go"/> 
-      <img src="https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+      <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Shell Script"/>
      </td>
-  </tr>
+  </tr>#4EAA25
   <tr>
     <td>🔨 Development</td>
     <td>
