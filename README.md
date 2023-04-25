@@ -39,7 +39,7 @@ I'm an **undergraduate researcher** study at *University of Michigan* where I am
      </td>
   </tr>
   <tr>
-    <td>🛠 Development</td>
+    <td>🔨 Development</td>
     <td>
       <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="git"/> 
       <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white" alt="Vim"/> 
@@ -48,7 +48,7 @@ I'm an **undergraduate researcher** study at *University of Michigan* where I am
     </td>
     </tr>
   <tr>
-    <td>🖋 Academic</td>
+    <td>💡 Other</td>
     <td>
       <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white" alt="LaTeX"/> 
       <img src="https://img.shields.io/static/v1?message=Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" alt="Mathematica"/></td>
