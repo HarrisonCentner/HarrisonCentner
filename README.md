@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About Me
 
 I'm an **undergraduate researcher** study at *University of Michigan* where I am majoring in:
  * *Honors Mathematics* 
  * *Computer Science Engineering* 
 
 
-## 🦾 Skills
+## Skills
 
 <div align="center">
 
