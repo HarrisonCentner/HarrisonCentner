@@ -29,6 +29,11 @@ I'm an **undergraduate researcher** study at *University of Michigan* where I am
 
 <table>
   <tr>
+     <td></td>
+     <td><td>
+     <td>Learning<td>
+  <tr>
+  <tr>
     <td>📚 Languages</td>
      <td>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/> 
@@ -36,7 +41,8 @@ I'm an **undergraduate researcher** study at *University of Michigan* where I am
       <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/> 
       <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white" alt="Go"/> 
      </td>
-  </tr>#4EAA25
+     <td>Learning<td>
+  </tr>
   <tr>
     <td>🔨 Development</td>
     <td>
@@ -45,6 +51,7 @@ I'm an **undergraduate researcher** study at *University of Michigan* where I am
       <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white" alt="Kubernetes"/>
       <img src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white" alt="Xcode"/>
     </td>
+    <td>Learning<td>
     </tr>
   <tr>
     <td>💡 Other</td>
@@ -53,6 +60,7 @@ I'm an **undergraduate researcher** study at *University of Michigan* where I am
       <img src="https://img.shields.io/static/v1?message=Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" alt="Mathematica"/>
       <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash Script"/>
      </td>
+     <td>Learning<td>
   </tr>
 </table>
 
