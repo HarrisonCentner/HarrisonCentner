@@ -31,7 +31,7 @@ I'm an **undergraduate researcher** study at *University of Michigan* where I am
   <tr>
     <td>💬 Language</td>
     <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/> 
-      <img src="https://img.shields.io/badge/-SystemVerilog-00599C?logo=velog&logoColor=white" alt="SystemVerilog"/>
+      <img src="https://img.shields.io/badge/-SystemVerilog-00ADD8?logo=velog&logoColor=white" alt="SystemVerilog"/>
       <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/> <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white" alt="Shell Script"/></td>
   </tr>
   <tr>
