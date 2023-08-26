@@ -24,7 +24,6 @@ I am an undergraduate researcher studying at *University of Michigan* where I am
     <td>
       <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="git"/> 
       <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white" alt="Vim"/> 
-      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white" alt="Kubernetes"/>
       <img src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white" alt="Xcode"/>
     </td>
     </tr>
