@@ -16,7 +16,7 @@ I am an undergraduate researcher studying at *University of Michigan* where I am
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/> 
       <img src="https://img.shields.io/badge/-SystemVerilog-27147A?logo=velog&logoColor=white" alt="SystemVerilog"/>
       <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/> 
-      <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white" alt="Go"/> 
+      <img src="https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=white" alt="Rust"/> 
      </td>
   </tr>
   <tr>
@@ -38,7 +38,6 @@ I am an undergraduate researcher studying at *University of Michigan* where I am
   <tr>
     <td>🤖 Currently Learning</td>
     <td>
-      <img src="https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=white" alt="Rust"/> 
       <img src="https://img.shields.io/badge/-Haskell-5D4F85?logo=Haskell&logoColor=white" alt="Haskell"/>
       <img src="https://img.shields.io/badge/-Org Mode-7EA395?logo=gunicorn&logoColor=white" alt="Org-Mode"/> 
      </td>
