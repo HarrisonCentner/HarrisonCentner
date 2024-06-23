@@ -1,6 +1,6 @@
 ## About
 
-I am a software engineer. Previously, I was an undergraduate researcher at the *University of Michigan* where I am majored in:
+I am a software engineer. Previously, I was an undergraduate researcher at the *University of Michigan* where I majored in:
  * *Honors Mathematics* 
  * *Computer Science Engineering* 
 
