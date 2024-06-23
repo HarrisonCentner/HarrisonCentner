@@ -1,6 +1,6 @@
 ## About
 
-I am an undergraduate researcher studying at *University of Michigan* where I am majoring in:
+I am a software engineer. Previously, I was an undergraduate researcher at the *University of Michigan* where I am majored in:
  * *Honors Mathematics* 
  * *Computer Science Engineering* 
 
