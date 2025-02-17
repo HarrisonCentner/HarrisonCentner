@@ -44,6 +44,7 @@ I am a software engineer. Previously, I was an undergraduate at the *University 
     <td>🤖 Currently Learning</td>
     <td>
       <img src="https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff" alt="Nix"/>
+      <img src="https://img.shields.io/badge/-Tidal Cycles-5D4F85?logo=Haskell&logoColor=white" alt="Haskell"/>
       <img src="https://img.shields.io/badge/-Org Mode-7EA395?logo=gunicorn&logocolor=white" alt="Org-Mode"/> 
      </td>
   </tr>
