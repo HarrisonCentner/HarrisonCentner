@@ -25,7 +25,7 @@ I am a software engineer. Previously, I was an undergraduate at the *University 
     <td>
       <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff" alt="NixOS"/> 
       <img src="https://img.shields.io/badge/-jj-F05032?logo=git&logoColor=white" alt="jj"/> 
-      <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white" alt="vim"/> 
+      <img src="https://img.shields.io/badge/vim-%2311AB00.svg?logo=vim&logoColor=white" alt="vim"/> 
       <!-- <img src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white" alt="Xcode"/> -->
     </td>
     </tr>
